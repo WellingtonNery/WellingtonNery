@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="banner_eu" src="https://github.com/user-attachments/assets/7ac3578f-8dcd-428c-a1c9-9821ef12c2ff" />
+<img width="1916" height="821" alt="banner_eu" src="https://github.com/user-attachments/assets/8101a363-ccd0-4e80-8b06-7d4c843b34a5"/>
 
 Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Paraná (PUCPR), interessado em desenvolvimento de software, jogos digitais, desenvolvimento web e pesquisa acadêmica.
 
