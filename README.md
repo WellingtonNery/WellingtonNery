@@ -38,7 +38,6 @@ O jogador assume o papel de um rei/shogun e precisa tomar decisões administrand
 **Tecnologias:** Python, Pygame
 
 🔗 [Ver repositório](https://github.com/WellingtonNery/ProjetoFinal_RA)
-🌐 [Ver site](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
 
@@ -60,7 +59,8 @@ O site apresenta os principais parques de Curitiba, com uma descrição breve so
 
 **Tecnologias:** HTML, CSS
 
-🔗 [Ver repositório](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)
+🔗 [Ver repositório](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)  
+🌐 [Ver site](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
 
