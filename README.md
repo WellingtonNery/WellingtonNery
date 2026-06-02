@@ -38,6 +38,7 @@ O jogador assume o papel de um rei/shogun e precisa tomar decisões administrand
 **Tecnologias:** Python, Pygame
 
 🔗 [Ver repositório](https://github.com/WellingtonNery/ProjetoFinal_RA)
+🌐 [Ver site](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
 
