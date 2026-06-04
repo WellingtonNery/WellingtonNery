@@ -1,84 +1,87 @@
-<img width="1916" height="821" alt="banner_eu" src="https://github.com/user-attachments/assets/8101a363-ccd0-4e80-8b06-7d4c843b34a5"/>
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/3f2b23d0-a233-484e-a1a5-26227a10a385" />
 
-Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Paraná (PUCPR), interessado em desenvolvimento de software, jogos digitais, desenvolvimento web e pesquisa acadêmica.
+# Hi, I'm Wellington 👋
 
-Atualmente estou desenvolvendo projetos com Python, Pygame, HTML, CSS, JavaScript, C# e Git/GitHub.
+I'm a Brazilian Software Engineering student at the Pontifical Catholic University of Paraná (PUCPR), interested in software development, game development, web development, and academic research.
 
----
-
-## Sobre mim
-
-- 🎓 Estudante de Engenharia de Software
-- 💻 Interesse em jogos digitais, Python e desenvolvimento web
-- 🎮 Estudando técnicas para desenvolver meu primeiro jogo inteiramente feito por mim
-- 📚 Interesse em pesquisa acadêmica
-- 📍 Curitiba/PR
+Currently, I'm developing projects with Python, Pygame, HTML, CSS, JavaScript, C#, and Git/GitHub.
 
 ---
 
-## Tecnologias e ferramentas
+## About me
 
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-333?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+* 🎓 Software Engineering student at PUCPR
+* 💻 Interested in game development, web development, and Python
+* 🎮 Studying game programming and 2D visual design to develop my own games
+* 📚 Interested in academic research and software engineering
+* 📍 Curitiba/PR, Brazil — available for remote opportunities
+* 🌎 Fluent in English and Portuguese
 
 ---
 
-## Projetos em destaque
+## Technologies and tools
+
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge\&logo=python)
+![C#](https://img.shields.io/badge/C%23-333?style=for-the-badge\&logo=csharp\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge\&logo=javascript)
+![Git](https://img.shields.io/badge/Git-333?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge\&logo=github)
+
+---
+
+## Highlighted projects
 
 ### 100 Days of Shogun
 
-Jogo 2D desenvolvido em Python com Pygame, inspirado em jogos de decisão como Reigns.  
-O jogador assume o papel de um rei/shogun e precisa tomar decisões administrando os medidores de Contentamento, População e Dinheiro ao longo de 100 dias.
+A 2D game developed in Python with Pygame, inspired by decision-based games such as *Reigns*.
+The player takes on the role of a king/shogun and must make decisions while managing Satisfaction, Population, and Money indicators over 100 days.
 
-**Tecnologias:** Python, Pygame
+**Technologies:** Python, Pygame
 
-🔗 [Ver repositório](https://github.com/WellingtonNery/ProjetoFinal_RA)
+🔗 [View repository](https://github.com/WellingtonNery/ProjetoFinal_RA)
 
 ---
 
 ### Pizzaria da Nonna
 
-Site desenvolvido como projeto acadêmico, com páginas de apresentação, cardápio, contato e política do restaurante.
+A website developed as an academic project, featuring presentation pages, a menu, a contact section, and a restaurant policy page.
 
-**Tecnologias:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
-🔗 [Ver repositório](https://github.com/WellingtonNery/Pizzaria-da-Nonna)  
-🌐 [Ver site](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
-
----
-
-### Site dos Parques de Curitiba
-
-Projeto web com apresentação de parques de Curitiba, utilizando estrutura HTML e estilização CSS.
-O site apresenta os principais parques de Curitiba, com uma descrição breve sobre cada um e uma apresentação do horário de funcionamento, pontos positivos e negativos e um carrossel contendo uma imagem de cada.
-
-**Tecnologias:** HTML, CSS
-
-🔗 [Ver repositório](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)  
-🌐 [Ver site](https://wellingtonnery.github.io/Parques-de-Curitiba/)
+🔗 [View repository](https://github.com/WellingtonNery/Pizzaria-da-Nonna)
+🌐 [View website](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
 
 ---
 
-## Atualmente estudando
+### Curitiba Parks Website
 
-- Estruturas de programação
-- Desenvolvimento de jogos
-- Design de jogos
-- Python e Pygame
-- C#
-- Git e GitHub
-- Banco de dados
-- Engenharia de Software
+A web project presenting parks in Curitiba, built with HTML and CSS.
+The website introduces some of the main parks in the city, including short descriptions, opening hours, positive and negative points, and an image carousel for each park.
+
+**Technologies:** HTML, CSS
+
+🔗 [View repository](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)
+🌐 [View website](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
 
-## Contato
+## Currently studying
 
-📧 Email: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)  
-💼 LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/wellington-costa-178966366)  
-🐙 GitHub: [Meu perfil no GitHub](https://github.com/WellingtonNery)
+* Programming structures
+* Game development
+* 2D game visual design
+* Python and Pygame
+* C#
+* Git and GitHub
+* Databases
+* Software Engineering
+
+---
+
+## Contact
+
+📧 Email: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)
+💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/wellington-costa-178966366)
+🐙 GitHub: [My GitHub profile](https://github.com/WellingtonNery)
