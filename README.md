@@ -53,6 +53,8 @@ A website developed in collaboration with [Diego Bochnia](https://github.com/die
 🔗 [View repository](https://github.com/diegobochnia/Regina-Olbre-Prohmam)  
 🌐 [View website](https://diegobochnia.github.io/Regina-Olbre-Prohmam/)
 
+---
+
 ### Pizzaria da Nonna
 
 A website developed as an academic project, featuring presentation pages, a menu, a contact section, and a restaurant policy page.
