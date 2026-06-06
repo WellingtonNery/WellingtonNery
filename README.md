@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/3f2b23d0-a233-484e-a1a5-26227a10a385" />
+<img width="2015" height="780" alt="banner-def" src="https://github.com/user-attachments/assets/8cfd039d-432b-4e3a-b63b-9658798fb934" />
 
 # Hi, I'm Wellington 👋
 
