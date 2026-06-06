@@ -44,13 +44,22 @@ The player takes on the role of a king/shogun and must make decisions while mana
 
 ---
 
+### Terapeuta Regina Olbre Prohmam
+
+A website developed in collaboration with [Diego Bochnia](https://github.com/diegobochnia) for academic purposes, while also being designed as a professional website.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [View repository](https://github.com/diegobochnia/Regina-Olbre-Prohmam)  
+🌐 [View website](https://diegobochnia.github.io/Regina-Olbre-Prohmam/)
+
 ### Pizzaria da Nonna
 
 A website developed as an academic project, featuring presentation pages, a menu, a contact section, and a restaurant policy page.
 
 **Technologies:** HTML, CSS, JavaScript
 
-🔗 [View repository](https://github.com/WellingtonNery/Pizzaria-da-Nonna)
+🔗 [View repository](https://github.com/WellingtonNery/Pizzaria-da-Nonna)  
 🌐 [View website](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
 
 ---
@@ -62,7 +71,7 @@ The website introduces some of the main parks in the city, including short descr
 
 **Technologies:** HTML, CSS
 
-🔗 [View repository](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)
+🔗 [View repository](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)  
 🌐 [View website](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
@@ -82,6 +91,6 @@ The website introduces some of the main parks in the city, including short descr
 
 ## Contact
 
-📧 Email: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)
-💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/wellington-costa-178966366)
+📧 Email: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)  
+💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/wellington-costa-178966366)  
 🐙 GitHub: [My GitHub profile](https://github.com/WellingtonNery)
