@@ -51,7 +51,7 @@
 
 ## 💡 Highlighted projects
 
-### Pausa 🌱 <sub>(in progress — ~50%)</sub>
+### Pausa
 A mobile app built with Flutter and Dart to log how you're feeling in the moment and what's influencing it, building a history over time for self-reflection and self-analysis. Started with a Figma prototype to define the UI/UX before development.
 
 **Technologies:** Flutter, Dart
