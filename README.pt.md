@@ -51,7 +51,7 @@ Estudante de Engenharia de Software, 19 anos, caminhando em direção à <b>arqu
 
 ## 💡 Projetos em destaque
 
-### Pausa 🌱 <sub>(em desenvolvimento — ~50%)</sub>
+### Pausa 🌱 <sub>
 Um aplicativo mobile feito com Flutter e Dart para registrar como você está se sentindo e o que está influenciando aquele momento, criando um histórico ao longo do tempo para autoanálise e reflexão. Começou com um protótipo no Figma para definir a UI/UX antes do desenvolvimento.
 
 **Tecnologias:** Flutter, Dart
