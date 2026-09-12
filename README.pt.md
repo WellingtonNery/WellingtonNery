@@ -18,7 +18,7 @@ Estudante de Engenharia de Software, 19 anos, caminhando em direção à <b>arqu
 
 * 🎓 Estudante de Engenharia de Software na **PUCPR** (2º semestre) — antes, fiz 2 semestres de Análise e Desenvolvimento de Sistemas na **Universidade Positivo**
 * 💻 ~2 anos de experiência prática somando os dois cursos
-* 🏗️ Decidido a seguir para **arquitetura de software** — gosto de entender como os sistemas são estruturados, por que quebram e como projetá-los para durar
+* 🏗️ Decidindo a seguir para **arquitetura de software** — gosto de entender como os sistemas são estruturados, por que quebram e como projetá-los para durar
 * 🎮 Desde criança queria fazer jogos, e ainda escrevo e desenvolvo jogos como hobby, em paralelo ao meu caminho principal
 * ✍️ Hobby de longa data em **escrita e literatura** — algo que combina naturalmente com a forma como os jogos usam storytelling para comunicar ideias
 * 📍 Curitiba/PR, Brasil — disponível para oportunidades remotas
@@ -51,7 +51,7 @@ Estudante de Engenharia de Software, 19 anos, caminhando em direção à <b>arqu
 
 ## 💡 Projetos em destaque
 
-### Pausa <sub>
+### Pausa
 Um aplicativo mobile feito com Flutter e Dart para registrar como você está se sentindo e o que está influenciando aquele momento, criando um histórico ao longo do tempo para autoanálise e reflexão. Começou com um protótipo no Figma para definir a UI/UX antes do desenvolvimento.
 
 **Tecnologias:** Flutter, Dart
