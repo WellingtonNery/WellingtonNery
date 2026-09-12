@@ -51,7 +51,7 @@ Estudante de Engenharia de Software, 19 anos, caminhando em direção à <b>arqu
 
 ## 💡 Projetos em destaque
 
-### Pausa 🌱 <sub>
+### Pausa <sub>
 Um aplicativo mobile feito com Flutter e Dart para registrar como você está se sentindo e o que está influenciando aquele momento, criando um histórico ao longo do tempo para autoanálise e reflexão. Começou com um protótipo no Figma para definir a UI/UX antes do desenvolvimento.
 
 **Tecnologias:** Flutter, Dart
@@ -64,7 +64,7 @@ Um aplicativo mobile feito com Flutter e Dart para registrar como você está se
 Um jogo 2D baseado em decisões, feito em Python com Pygame, inspirado em jogos como *Reigns*. O jogador assume o papel de um rei/xogum, e cada decisão afeta três variáveis do sistema interligadas — Satisfação, População e Dinheiro — ao longo de 100 dias.
 
 **Tecnologias:** Python, Pygame
-🔗 [Ver repositório](https://github.com/WellingtonNery/ProjetoFinal_RA)
+🔗 [Ver repositório](https://github.com/WellingtonNery/100daysShogun)
 
 ---
 
@@ -90,7 +90,7 @@ Projeto acadêmico com páginas de apresentação, cardápio, seção de contato
 Projeto web apresentando parques de Curitiba, construído com HTML e CSS, incluindo descrições, horários de funcionamento, pontos positivos e negativos, e um carrossel de imagens para cada parque.
 
 **Tecnologias:** HTML, CSS
-🔗 [Ver repositório](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)
+🔗 [Ver repositório](https://github.com/WellingtonNery/Parques-de-Curitiba)
 🌐 [Ver site](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
