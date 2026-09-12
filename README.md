@@ -64,7 +64,7 @@ A mobile app built with Flutter and Dart to log how you're feeling in the moment
 A 2D decision-based game built in Python with Pygame, inspired by games like *Reigns*. The player rules as a king/shogun, and every decision affects three interconnected system variables — Satisfaction, Population, and Money — over 100 days.
 
 **Technologies:** Python, Pygame
-🔗 [View repository](https://github.com/WellingtonNery/ProjetoFinal_RA)
+🔗 [View repository](https://github.com/WellingtonNery/100daysShogun)
 
 ---
 
@@ -90,7 +90,7 @@ An academic web project featuring presentation pages, a menu, a contact section,
 A web project presenting parks in Curitiba, built with HTML and CSS, including descriptions, opening hours, pros/cons, and an image carousel for each park.
 
 **Technologies:** HTML, CSS
-🔗 [View repository](https://github.com/WellingtonNery/ParquesDeCuritiba-BES-PUCPR-2026)
+🔗 [View repository](https://github.com/WellingtonNery/Parques-de-Curitiba)
 🌐 [View website](https://wellingtonnery.github.io/Parques-de-Curitiba/)
 
 ---
