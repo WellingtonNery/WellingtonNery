@@ -90,8 +90,8 @@ An academic web project featuring presentation pages, a menu, a contact section,
 A web project presenting parks in Curitiba, built with HTML and CSS, including descriptions, opening hours, pros/cons, and an image carousel for each park.
 
 **Technologies:** HTML, CSS
-🔗 [View repository](https://github.com/WellingtonNery/Parques-de-Curitiba)
-🌐 [View website](https://wellingtonnery.github.io/Parques-de-Curitiba/)
+🔗 [View repository](https://github.com/diegobochnia/ParquesDeCuritiba-BES-PUCPR-2026)
+🌐 [View website](https://diegobochnia.github.io/ParquesDeCuritiba-BES-PUCPR-2026/)
 
 ---
 
