@@ -90,8 +90,8 @@ Projeto acadêmico com páginas de apresentação, cardápio, seção de contato
 Projeto web apresentando parques de Curitiba, construído com HTML e CSS, incluindo descrições, horários de funcionamento, pontos positivos e negativos, e um carrossel de imagens para cada parque.
 
 **Tecnologias:** HTML, CSS
-🔗 [Ver repositório](https://github.com/WellingtonNery/Parques-de-Curitiba)
-🌐 [Ver site](https://wellingtonnery.github.io/Parques-de-Curitiba/)
+🔗 [Ver repositório](https://github.com/diegobochnia/ParquesDeCuritiba-BES-PUCPR-2026)
+🌐 [Ver site](https://diegobochnia.github.io/ParquesDeCuritiba-BES-PUCPR-2026/)
 
 ---
 
