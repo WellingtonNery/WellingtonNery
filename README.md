@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/8cfd039d-432b-4e3a-b63b-9658798fb934" />
+  <img width="100%" alt="Wellington Nery profile banner" src="./assets/banner-en.svg"/>
 </div>
 
 <h1 align="center">Hi, I'm Wellington 👋</h1>
 
 <p align="center">
-19-year-old Software Engineering student moving toward <b>software architecture</b>, with games and writing as a lifelong creative background.
+Software Engineering student building toward software architecture, with game development and writing as long-term creative interests.
 </p>
 
 <p align="center">
@@ -16,87 +16,88 @@
 
 ## 🚀 About me
 
-* 🎓 Software Engineering student at **PUCPR** (2nd semester) — previously 2 semesters of Systems Analysis and Development at **Universidade Positivo**
-* 💻 ~2 years of hands-on development experience across both programs
-* 🏗️ Currently deciding to focus on **software architecture** — I like understanding how systems are structured, why they break, and how to design them to hold up over time
+* 🏗️ Building toward **software architecture**. I like understanding how systems are structured, why they break, and how to design them to hold up over time
 * 🎮 Grew up wanting to make games, and still write and build them as a hobby alongside my main path
-* ✍️ Long-time hobby in **writing and literature** — which pairs naturally with how games use storytelling to communicate ideas
-* 📍 Curitiba/PR, Brazil — available for remote opportunities
+* ✍️ Long-time hobby in **writing and literature**, which pairs naturally with how games use storytelling to communicate ideas
+* 📍 Curitiba/PR, Brazil. Available for remote opportunities
 * 🌎 Fluent in English and Portuguese
 
 ---
 
 ## 🧭 My path so far
 
-* **Universidade Positivo** (ADS, 2 semesters): learned **C** as a foundation, plus HTML, CSS, and SQL, with some light, self-taught exposure to **C#**
-* **PUCPR** (Software Engineering, current): deeper focus on programming logic in **Python**, **BPMN**, HTML, CSS, **JavaScript**, **UML**, and **Git/GitHub**
-* **On my own**: currently learning **Dart with Flutter**, applying it in **Pausa**, a mobile app I'm building
+**PUCPR - Software Engineering**
+*2nd semester · Ongoing*
+
+Deeper focus on programming logic and software engineering fundamentals, working with **Python, JavaScript, BPMN, UML, and Git/GitHub**, alongside HTML and CSS. On my own, I'm also exploring mobile development, currently building **Pausa** with Flutter and Dart.
+
+**Universidade Positivo - Systems Analysis and Development**
+*2 semesters*
+
+Built a foundation in **C**, along with HTML, CSS, and SQL, with some self-taught exposure to **C#**.
+
+*~2 years of hands-on development experience across coursework and personal projects.*
 
 ---
 
 ## 🛠️ Technologies and tools
 
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c)
-![Dart](https://img.shields.io/badge/Dart-333?style=for-the-badge&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-333?style=for-the-badge&logo=flutter)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+**Languages:** C · Python · JavaScript · Dart · SQL  
+**Web:** HTML · CSS  
+**Mobile:** Flutter  
+**Tools:** Git · GitHub  
+**Modeling:** UML · BPMN
 
 ---
 
 ## 💡 Highlighted projects
 
 ### Pausa
-A mobile app built with Flutter and Dart to log how you're feeling in the moment and what's influencing it, building a history over time for self-reflection and self-analysis. Started with a Figma prototype to define the UI/UX before development.
+A mobile app built with Flutter and Dart to log how you're feeling in the moment and what's influencing it, building a history over time for self-reflection. Started with a Figma prototype to define the UI/UX before development.
 
 **Technologies:** Flutter, Dart
-🔗 [View repository](https://github.com/WellingtonNery/pausa)
+🔗 [GitHub repository](https://github.com/WellingtonNery/pausa)
 🎨 [Figma prototype](https://www.figma.com/design/YUY5chQyRgP1jBIWEjVuNC/PAUSA?node-id=6-391&t=jn5TC6CPf6oaFKmh-1)
 
 ---
 
 ### 100 Days of Shogun
-A 2D decision-based game built in Python with Pygame, inspired by games like *Reigns*. The player rules as a king/shogun, and every decision affects three interconnected system variables — Satisfaction, Population, and Money — over 100 days.
+A 2D decision-based game built in Python with Pygame, inspired by games like *Reigns*. The player takes the role of a shogun, and every decision affects three interconnected system variables: Satisfaction, Population, and Money over 100 days.
 
 **Technologies:** Python, Pygame
-🔗 [View repository](https://github.com/WellingtonNery/100daysShogun)
+🔗 [GitHub repository](https://github.com/WellingtonNery/100daysShogun)
 
 ---
 
 ### Terapeuta Regina Olbre Prohmam
-A website developed in collaboration with [Diego Bochnia](https://github.com/diegobochnia) for academic purposes, also designed to work as a real professional site.
+An academic team project developed as a real professional website for therapist Regina Olbre Prohmam. I contributed to the homepage, About, and Contact pages, focusing on their structure, layout, and responsive implementation.
 
 **Technologies:** HTML, CSS, JavaScript
-🔗 [View repository](https://github.com/diegobochnia/Regina-Olbre-Prohmam)
+🔗 [GitHub repository](https://github.com/diegobochnia/Regina-Olbre-Prohmam)
 🌐 [View website](https://diegobochnia.github.io/Regina-Olbre-Prohmam/)
 
 ---
 
-### Pizzaria da Nonna
-An academic web project featuring presentation pages, a menu, a contact section, and a restaurant policy page.
+### PUC-Imprest
+An academic team project developed to unify the loan process for electronic devices at PUCPR. I contributed to the system's CRUD implementation, including the Technical Staff entity. The project is still under development.
 
-**Technologies:** HTML, CSS, JavaScript
-🔗 [View repository](https://github.com/WellingtonNery/Pizzaria-da-Nonna)
-🌐 [View website](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
+**Technologies:** HTML, JavaScript, Tailwind CSS
+🔗 [GitHub repository](https://github.com/WellingtonNery/Owners)
+🌐 [View website](https://wellingtonnery.github.io/Owners)
 
 ---
 
-### Curitiba Parks Website
-A web project presenting parks in Curitiba, built with HTML and CSS, including descriptions, opening hours, pros/cons, and an image carousel for each park.
+## 📎 Other academic projects
 
-**Technologies:** HTML, CSS
-🔗 [View repository](https://github.com/diegobochnia/ParquesDeCuritiba-BES-PUCPR-2026)
-🌐 [View website](https://diegobochnia.github.io/ParquesDeCuritiba-BES-PUCPR-2026/)
+Smaller coursework projects, kept for reference:
+
+- **Pizzaria da Nonna** (HTML, CSS, JavaScript) - 🔗 [repo](https://github.com/WellingtonNery/Pizzaria-da-Nonna) 🌐 [site](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
+- **Curitiba Parks Website** (HTML, CSS) - 🔗 [repo](https://github.com/diegobochnia/ParquesDeCuritiba-BES-PUCPR-2026) 🌐 [site](https://diegobochnia.github.io/ParquesDeCuritiba-BES-PUCPR-2026/)
 
 ---
 
 ## 📬 Contact
 
 📧 Email: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)
-💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/wellington-costa-178966366)
+💼 LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/wellington-nery-costa/)
 🐙 GitHub: [My GitHub profile](https://github.com/WellingtonNery)
