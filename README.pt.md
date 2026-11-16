@@ -5,7 +5,8 @@
 <h1 align="center">Olá, eu sou o Wellington 👋</h1>
 
 <p align="center">
-Estudante de Engenharia de Software construindo meu caminho em direção à arquitetura de software, com desenvolvimento de jogos e escrita como interesses criativos de longa data.
+Estudante de Engenharia de Software a caminho da arquitetura de software.<br/>
+Um pouco engenheiro, um pouco escritor, um pouco game designer. Faço de tudo um pouco, e quase nunca do jeito convencional.
 </p>
 
 <p align="center">
@@ -16,9 +17,11 @@ Estudante de Engenharia de Software construindo meu caminho em direção à arqu
 
 ## 🚀 Sobre mim
 
-* 🏗️ Construindo meu caminho em direção à **arquitetura de software**. Gosto de entender como os sistemas são estruturados, por que eles quebram e como projetá-los para que se sustentem ao longo do tempo
-* 🎮 Cresci querendo criar jogos e ainda escrevo e desenvolvo jogos como hobby, paralelamente ao meu caminho principal
-* ✍️ Tenho um interesse de longa data em **escrita e literatura**, que combina naturalmente com a forma como os jogos usam narrativas para transmitir ideias
+* 🏗️ A caminho da **arquitetura de software**. Gosto de entender como os sistemas são estruturados, por que eles quebram e como projetá-los para que se sustentem ao longo do tempo
+* 🎮 Cresci querendo criar jogos, e ainda crio. Gosto dos estranhos, dos jogos que quebram as regras do próprio gênero
+* ✍️ Leitor e escritor de longa data. As histórias me ensinaram o que bons sistemas também precisam: cada parte tem que existir por um motivo
+* 🔌 Ultimamente também ando colocando a mão no **hardware**: ESP32, sensores, protoboards e muito jumper
+* 🌃 Curto a cultura **cyberpunk** e cyberdecks, o que explica o banner
 * 📍 Curitiba/PR, Brasil. Disponível para oportunidades remotas
 * 🌎 Fluente em inglês e português
 
@@ -29,65 +32,75 @@ Estudante de Engenharia de Software construindo meu caminho em direção à arqu
 **PUCPR - Engenharia de Software**
 *2º período · Em andamento*
 
-Maior foco em lógica de programação e fundamentos de engenharia de software, trabalhando com **Python, JavaScript, BPMN, UML e Git/GitHub**, além de HTML e CSS. Por conta própria, também estou explorando desenvolvimento mobile e atualmente desenvolvendo o **Pausa** com Flutter e Dart.
+Lógica de programação e fundamentos de engenharia de software com **Python, JavaScript, BPMN, UML e Git/GitHub**, além de web (HTML, CSS, Tailwind, PHP) e sistemas ciberfísicos com **ESP32**. Por conta própria, estou explorando desenvolvimento mobile com **Flutter e Dart**.
 
 **Universidade Positivo - Análise e Desenvolvimento de Sistemas**
 *2 semestres*
 
 Construí uma base em **C**, além de HTML, CSS e SQL, com alguma experiência autodidata em **C#**.
 
-*~2 anos de desenvolvimento prático por meio de projetos acadêmicos e pessoais.*
+*~2 anos de desenvolvimento prático entre projetos acadêmicos e pessoais.*
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Linguagens:** C · Python · JavaScript · Dart · SQL  
-**Web:** HTML · CSS  
+**Linguagens:** C · C++ · Python · JavaScript · Dart · SQL · PHP  
+**Web:** HTML · CSS · Tailwind CSS · Bootstrap  
+**Banco de dados:** MySQL  
 **Mobile:** Flutter  
-**Ferramentas:** Git · GitHub  
-**Modelagem:** UML · BPMN  
+**Hardware:** ESP32 · sensores infravermelhos e ultrassônicos · DFPlayer Mini  
+**Design e modelagem:** Figma · UML · BPMN · Astah  
+**Ferramentas:** Git · GitHub
 
 ---
 
 ## 💡 Projetos em destaque
 
 ### Pausa
+Um aplicativo mobile para registrar como você está se sentindo no momento e o que está influenciando isso (trabalho, estudos, sono, amigos, amor...), criando um histórico ao longo do tempo para reflexão pessoal. Começou como um protótipo no Figma para definir a UI/UX antes de qualquer linha de código.
 
-Um aplicativo mobile desenvolvido com Flutter e Dart para registrar como você está se sentindo no momento e o que está influenciando isso, criando um histórico ao longo do tempo para reflexão pessoal. O projeto começou com um protótipo no Figma para definir a UI/UX antes do desenvolvimento.
-
-**Tecnologias:** Flutter, Dart
-🔗 [Repositório no GitHub](https://github.com/WellingtonNery/pausa)
+**Tecnologias:** Flutter, Dart, Figma  
+🔗 [Repositório no GitHub](https://github.com/WellingtonNery/pausa)  
 🎨 [Protótipo no Figma](https://www.figma.com/design/YUY5chQyRgP1jBIWEjVuNC/PAUSA?node-id=6-391&t=jn5TC6CPf6oaFKmh-1)
 
 ---
 
 ### 100 Days of Shogun
+Um jogo 2D baseado em decisões, inspirado em *Reigns*. Você é um xogum, e cada escolha mexe em três variáveis interligadas (Satisfação, População e Dinheiro) ao longo de 100 dias. Projeto em equipe da disciplina de Raciocínio Algorítmico da PUCPR.
 
-Um jogo 2D baseado em decisões, desenvolvido em Python com Pygame e inspirado em jogos como *Reigns*. O jogador assume o papel de um xogum, e cada decisão afeta três variáveis interligadas do sistema: Satisfação, População e Dinheiro ao longo de 100 dias.
+**Minha parte:** a estrutura lógica do jogo, o sistema de áudio, as imagens e o sistema de prestígio, além da documentação técnica (README).
 
-**Tecnologias:** Python, Pygame
+**Tecnologias:** Python, Pygame  
 🔗 [Repositório no GitHub](https://github.com/WellingtonNery/100daysShogun)
 
 ---
 
-### Terapeuta Regina Olbre Prohmam
+### Bola na Rede
+Um sistema de detecção de gols montado numa pequena trave de PVC. Barreiras infravermelhas ligadas a uma ESP32 diferenciam a bola de uma pessoa pelo tempo que cada feixe fica cortado, um DFPlayer Mini toca um som a cada gol e um placar ao vivo roda numa página web servida pela própria ESP32. Nos testes finais, contou 20 de 21 chutes (95%). Projeto em equipe da disciplina de Conectividade de Sistemas Ciberfísicos da PUCPR.
 
-Um projeto acadêmico em equipe desenvolvido como um site profissional real para a terapeuta Regina Olbre Prohmam. Contribuí para as páginas inicial, Sobre e Contato, trabalhando em sua estrutura, layout e implementação responsiva.
+**Minha parte:** cabeamento e montagem dos sensores em duas protoboards, e execução das rodadas de teste usadas para calibrar a lógica de detecção.
 
-**Tecnologias:** HTML, CSS, JavaScript
-🔗 [Repositório no GitHub](https://github.com/diegobochnia/Regina-Olbre-Prohmam)
-🌐 [Acessar site](https://diegobochnia.github.io/Regina-Olbre-Prohmam/)
+**Tecnologias:** ESP32, C++ (Arduino), sensores infravermelhos, HC-SR04, DFPlayer Mini  
+🔗 [Repositório no GitHub](https://github.com/JvVicente/BolaNaRede)
 
 ---
 
 ### PUC-Imprest
+Um projeto em equipe (equipe OWNERS) para unificar o empréstimo de dispositivos eletrônicos da PUCPR, como notebooks e placas ESP32. Na segunda etapa, o front-end passou a rodar sobre um backend em PHP com banco MySQL, com CRUDs de usuários, salas, equipamentos, ocorrências e permissões. Desenvolvi o CRUD de Usuários (alunos, professores e técnicos num único fluxo, com senhas criptografadas) e escrevi o caso de uso "Registrar devolução". O projeto ainda está em desenvolvimento.
 
-Um projeto acadêmico em equipe desenvolvido para unificar o processo de empréstimo de dispositivos eletrônicos da PUCPR. Contribuí para a implementação do CRUD do sistema, incluindo a entidade Técnico. O projeto ainda está em desenvolvimento.
-
-**Tecnologias:** HTML, JavaScript, Tailwind CSS
-🔗 [Repositório no GitHub](https://github.com/WellingtonNery/Owners)
+**Tecnologias:** HTML, JavaScript, Tailwind CSS, Bootstrap, PHP, MySQL  
+🔗 [Repositório no GitHub](https://github.com/WellingtonNery/Owners)  
 🌐 [Acessar site](https://wellingtonnery.github.io/Owners)
+
+---
+
+### Terapeuta Regina Olbre Prohmam
+Um projeto em equipe desenvolvido como um site profissional real para a terapeuta Regina Olbre Prohmam. Trabalhei nas páginas inicial, Sobre e Contato: estrutura, layout e implementação responsiva.
+
+**Tecnologias:** HTML, CSS, JavaScript  
+🔗 [Repositório no GitHub](https://github.com/diegobochnia/Regina-Olbre-Prohmam)  
+🌐 [Acessar site](https://diegobochnia.github.io/Regina-Olbre-Prohmam/)
 
 ---
 
@@ -95,13 +108,13 @@ Um projeto acadêmico em equipe desenvolvido para unificar o processo de emprés
 
 Projetos menores desenvolvidos durante as disciplinas, mantidos como referência:
 
-* **Pizzaria da Nonna** (HTML, CSS, JavaScript) - 🔗 [repositório](https://github.com/WellingtonNery/Pizzaria-da-Nonna) 🌐 [site](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
-* **Site dos Parques de Curitiba** (HTML, CSS) - 🔗 [repositório](https://github.com/diegobochnia/ParquesDeCuritiba-BES-PUCPR-2026) 🌐 [site](https://diegobochnia.github.io/ParquesDeCuritiba-BES-PUCPR-2026/)
+* **Pizzaria da Nonna** (HTML, CSS, JavaScript) · 🔗 [repositório](https://github.com/WellingtonNery/Pizzaria-da-Nonna) · 🌐 [site](https://wellingtonnery.github.io/Pizzaria-da-Nonna/)
+* **Site dos Parques de Curitiba** (HTML, CSS) · 🔗 [repositório](https://github.com/diegobochnia/ParquesDeCuritiba-BES-PUCPR-2026) · 🌐 [site](https://diegobochnia.github.io/ParquesDeCuritiba-BES-PUCPR-2026/)
 
 ---
 
 ## 📬 Contato
 
-📧 E-mail: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)
-💼 LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/wellington-nery-costa/)
+📧 E-mail: [welli.nery12@gmail.com](mailto:welli.nery12@gmail.com)  
+💼 LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/wellington-nery-costa/)  
 🐙 GitHub: [Meu perfil no GitHub](https://github.com/WellingtonNery)
